@@ -4,6 +4,8 @@
 
 Welcome to Congo Sentry, a community-driven initiative aimed at enhancing public safety in Congo. This platform leverages real-time data to provide location-based alerts, empowering locals with timely, actionable insights.
 
+![Alt text for image](https://github.com/Dirac156/congo-sentry/blob/main/assets/diagram.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
