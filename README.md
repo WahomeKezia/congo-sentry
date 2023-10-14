@@ -37,6 +37,8 @@ cd [Your Project Name]
 
 # Install dependencies
 npm install
+```
+## Usage
 
 ## Contribute
 
